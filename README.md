@@ -39,7 +39,7 @@ end
 >2.adhoc （与development类似，证书类型不同）
 
 ``` 
-lane :beta do
+lane :ad-hoc do
 gym(
 scheme: "XXX项目文件名",
 clean: true, 
