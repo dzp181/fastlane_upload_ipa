@@ -3,6 +3,15 @@
 ### 1.文件目录格式：
 ![1.jpg](https://upload-images.jianshu.io/upload_images/1874585-70ca13547acb4904.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+``` 
+备注:
+- 1.Deliverfile文件是deliver需要的文件，和fastfile文件类似；
+- 2. ipa文件是自己创建的，ipa和dSYM文件输出路径；
+- 3.metadata文件是审核提交时提供的一些信息，例如隐私网站，登录账号等等；
+- 4.Pluginfile是插件文件；
+- 5.screenshots文件是模拟器截图，即预览图文件。
+``` 
+
 ### 2.打包方式
 >1.development
 
