@@ -22,6 +22,8 @@ signingStyle: "manual"  //手动签名方式
 )
 #pgyer(api_key: "xxx", user_key: "xxx", update_description: "")  //蒲公英账号密钥等,蒲公英公开安装方式关闭了
 
+firim(firim_api_token:"XXX")
+
 end
 ```
 
@@ -44,6 +46,9 @@ signingStyle: "manual"  //手动签名方式
 }
 )
 #pgyer(api_key: "xxx", user_key: "xxx", update_description: "")  //蒲公英账号密钥等，蒲公英公开安装方式关闭了
+
+firim(firim_api_token:"XXX")
+
 
 end
 ```
